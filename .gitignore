@@ -1,0 +1,38 @@
+# Ignore bundler config.
+/.bundle
+
+/vendor/ruby
+/vendor/gems
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp
+!/log/.keep
+!/tmp/.keep
+
+# Ignore Byebug command history file.
+.byebug_history
+
+# Ignore application configuration
+/config/application.yml
+
+# Ignore database configuration
+/config/database.yml
+
+# Ignore newrelic configuration
+/config/newrelic.yml
+
+# Ignore credentials
+/config/credentials.yml.enc
+
+# Ignore master key
+/config/master.key
+
+# Ignore RubyMine idea directory
+.idea
+
+# Ignore resource folder of paperclip
+/public/system
+/public/static_pages
+
+# Ignore the folder of requirement documents
+/docs
