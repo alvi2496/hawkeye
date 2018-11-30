@@ -47,6 +47,7 @@ gem 'pundit'
 gem 'paperclip', '~> 6.0.0'
 gem 'rack-cors', :require => 'rack/cors'
 gem 'bootsnap'
+gem 'chart-js-rails'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
