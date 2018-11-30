@@ -9,6 +9,7 @@
 
 // Active Admin's got SASS!
 //$primary-color: #c0ffee;
+@import "bootstrap";
 @import 'formadmin/formadmin';
 
 // Overriding any non-variable SASS must be done after the fact.
